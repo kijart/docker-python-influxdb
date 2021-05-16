@@ -5,6 +5,14 @@
 
 Run **InfluxDB python client** inside Docker
 
+## Versions
+
+| Docker image                    |
+| ------------------------------- |
+| `kijart/python-influxdb:latest` |
+| `kijart/python-influxdb:5.3.1`  |
+| `kijart/python-influxdb:5.3.0`  |
+
 ## Dockerfile
 
 - base image: `python:alpine`
