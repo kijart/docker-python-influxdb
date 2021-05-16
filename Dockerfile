@@ -4,7 +4,7 @@ LABEL maintainer="Luis Miguel Vicente Fuentes"
 
 # environment variables
 ENV DEFAULT_USER=app
-ENV INFLUXDB_VERSION=5.3.0
+ENV INFLUXDB_VERSION=5.3.1
 
 # non-root user
 RUN adduser -D ${DEFAULT_USER}
